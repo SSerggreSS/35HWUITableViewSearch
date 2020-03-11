@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DF0E6F1A-D11C-4BEB-A144-C99B98A2158D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C01A7C1-D00A-4954-B95E-8CE8797580EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HWUITableViewSearch/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73480D23-4D51-4DD4-A2F9-7CF81A96399C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HWUITableViewSearch/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "loadView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A98B5C0-787B-4A8A-86C5-5B176FF05D6D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HWUITableViewSearch/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "searchBarTextDidBeginEditing(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "510B6C63-BC54-467F-80BD-864977F34B10"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HWUITableViewSearch/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
+            landmarkName = "searchBar(_:textDidChange:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "510B6C63-BC54-467F-80BD-864977F34B10 - 360f2ff95c5f52af"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HWUITableViewSearch.TableViewController.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "HWUITableViewSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergej/Desktop/Development/Lessons%20%D0%A1%D0%BA%D1%83%D1%82%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%202.10.2018/HomeWorkObjecive%20-%20C/HWUITableViewSearch/HWUITableViewSearch/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "143">
+               </Location>
+               <Location
+                  uuid = "510B6C63-BC54-467F-80BD-864977F34B10 - 360f2ff95c5f52af"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HWUITableViewSearch.TableViewController.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "HWUITableViewSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergej/Desktop/Development/Lessons%20%D0%A1%D0%BA%D1%83%D1%82%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%202.10.2018/HomeWorkObjecive%20-%20C/HWUITableViewSearch/HWUITableViewSearch/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "369">
+               </Location>
+               <Location
+                  uuid = "510B6C63-BC54-467F-80BD-864977F34B10 - 360f2ff95c5f52af"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HWUITableViewSearch.TableViewController.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "HWUITableViewSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergej/Desktop/Development/Lessons%20%D0%A1%D0%BA%D1%83%D1%82%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%202.10.2018/HomeWorkObjecive%20-%20C/HWUITableViewSearch/HWUITableViewSearch/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "379">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01FF01E3-9BFE-4D8E-B6C1-A5A8F2047BCD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HWUITableViewSearch/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E2549B5-5D16-4C00-A9FF-941F8D584341"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HWUITableViewSearch/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "216"
+            endingLineNumber = "216"
+            landmarkName = "generateSectionsByMonth(students:searchText:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0866CCE7-7E20-442B-9F5B-58C241EDBB0F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HWUITableViewSearch/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "sortSegmentedControlAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0866CCE7-7E20-442B-9F5B-58C241EDBB0F - d6ef9d8d5336af11"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HWUITableViewSearch.TableViewController.sortSegmentedControlAction(__C.UISegmentedControl) -&gt; ()"
+                  moduleName = "HWUITableViewSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergej/Desktop/Development/Lessons%20%D0%A1%D0%BA%D1%83%D1%82%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%202.10.2018/HomeWorkObjecive%20-%20C/HWUITableViewSearch/HWUITableViewSearch/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "87">
+               </Location>
+               <Location
+                  uuid = "0866CCE7-7E20-442B-9F5B-58C241EDBB0F - d6ef9d8d5336af11"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HWUITableViewSearch.TableViewController.sortSegmentedControlAction(__C.UISegmentedControl) -&gt; ()"
+                  moduleName = "HWUITableViewSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergej/Desktop/Development/Lessons%20%D0%A1%D0%BA%D1%83%D1%82%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%202.10.2018/HomeWorkObjecive%20-%20C/HWUITableViewSearch/HWUITableViewSearch/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "102">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FBFC11D1-53B7-4370-9432-72045FF2D376"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HWUITableViewSearch/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
+            landmarkName = "searchBar(_:textDidChange:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBA6F358-51C8-44CE-9FB1-7111D90D7FB2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HWUITableViewSearch/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "searchBar(_:textDidChange:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DBA6F358-51C8-44CE-9FB1-7111D90D7FB2 - 360f2ff95c5f52af"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HWUITableViewSearch.TableViewController.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "HWUITableViewSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergej/Desktop/Development/Lessons%20%D0%A1%D0%BA%D1%83%D1%82%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%202.10.2018/HomeWorkObjecive%20-%20C/HWUITableViewSearch/HWUITableViewSearch/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "143">
+               </Location>
+               <Location
+                  uuid = "DBA6F358-51C8-44CE-9FB1-7111D90D7FB2 - 360f2ff95c5f52af"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HWUITableViewSearch.TableViewController.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "HWUITableViewSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergej/Desktop/Development/Lessons%20%D0%A1%D0%BA%D1%83%D1%82%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%202.10.2018/HomeWorkObjecive%20-%20C/HWUITableViewSearch/HWUITableViewSearch/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "369">
+               </Location>
+               <Location
+                  uuid = "DBA6F358-51C8-44CE-9FB1-7111D90D7FB2 - 360f2ff95c5f52af"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HWUITableViewSearch.TableViewController.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "HWUITableViewSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergej/Desktop/Development/Lessons%20%D0%A1%D0%BA%D1%83%D1%82%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%202.10.2018/HomeWorkObjecive%20-%20C/HWUITableViewSearch/HWUITableViewSearch/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "653">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F1EB9C3-EAD9-44C8-B95A-37B45390FAA5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HWUITableViewSearch/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "193"
+            endingLineNumber = "193"
+            landmarkName = "generateSectionsByMonth(students:searchText:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8F1EB9C3-EAD9-44C8-B95A-37B45390FAA5 - e12e1a462e197406"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HWUITableViewSearch.TableViewController.(generateSectionsByMonth in _6F13CFC507D0F22C153F6F5935CBECE6)(students: Swift.Array&lt;HWUITableViewSearch.Student&gt;, searchText: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Array&lt;HWUITableViewSearch.Section&gt;"
+                  moduleName = "HWUITableViewSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergej/Desktop/Development/Lessons%20%D0%A1%D0%BA%D1%83%D1%82%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%202.10.2018/HomeWorkObjecive%20-%20C/HWUITableViewSearch/HWUITableViewSearch/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "174"
+                  endingLineNumber = "174"
+                  offsetFromSymbolStart = "390">
+               </Location>
+               <Location
+                  uuid = "8F1EB9C3-EAD9-44C8-B95A-37B45390FAA5 - dfdf02ba00c5727c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (HWUITableViewSearch.Student, HWUITableViewSearch.Student) -&gt; Swift.Bool in HWUITableViewSearch.TableViewController.(generateSectionsByMonth in _6F13CFC507D0F22C153F6F5935CBECE6)(students: Swift.Array&lt;HWUITableViewSearch.Student&gt;, searchText: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Array&lt;HWUITableViewSearch.Section&gt;"
+                  moduleName = "HWUITableViewSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergej/Desktop/Development/Lessons%20%D0%A1%D0%BA%D1%83%D1%82%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%202.10.2018/HomeWorkObjecive%20-%20C/HWUITableViewSearch/HWUITableViewSearch/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "176"
+                  endingLineNumber = "176"
+                  offsetFromSymbolStart = "242">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D8EA239-DE3A-4DAF-BE28-060B21B71EEB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HWUITableViewSearch/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "tableView(_:commit:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44F94571-428A-4E9B-93B3-E03EA5E70B1F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HWUITableViewSearch/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "tableView(_:commit:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
